@@ -1,3 +1,3 @@
-Heyoooo, everyone!
+Heyoooo, everyone!  Welcome to my Git guide!
 - New line of text goes here...
 - New junior dev here.  Just want to introduce myself!
