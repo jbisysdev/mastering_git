@@ -1,3 +1,2 @@
-Heyoooo, everyone!  Welcome to my Git guide!
-- New line of text goes here...
-- New junior dev here.  Just want to introduce myself!
+Welcome to Git!
+- I'm adding this from "dev-jbi"
