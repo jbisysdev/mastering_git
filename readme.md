@@ -1,2 +1,2 @@
-Hello, Git!
-- I'm adding this from "feature-branch"
+Welcome to Git!
+- I'm adding this from "dev-jbi"
